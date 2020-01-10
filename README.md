@@ -4,9 +4,8 @@ With this app, you search for TV shows you want to watch, and when you register 
 
 ![BINGE WATCH CLUB](client/src/images/readmeimg1.png)
 
-![BINGE WATCH CLUB](client/src/images/readmeimg2.png)
+![BINGE WATCH CLUB](readmeimg2.png)
 
-<img src="readmeimg2.png", width=800>
 
 
 ## Built With
